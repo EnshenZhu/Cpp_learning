@@ -1,0 +1,13 @@
+# ninja log v5
+1	821	6853320914765202	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+830	1082	6853320917495846	30_LinkedList.exe	85935a56ec7e4ecc
+7	967	6853321411951243	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+969	1272	6853321415111960	30_LinkedList.exe	85935a56ec7e4ecc
+9	852	6853355502124904	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+854	1195	6853355505734567	30_LinkedList.exe	85935a56ec7e4ecc
+6	806	6853356239823796	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+808	1061	6853356242573378	30_LinkedList.exe	85935a56ec7e4ecc
+9	765	6853357257641876	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+766	1026	6853357260343390	30_LinkedList.exe	85935a56ec7e4ecc
+19	1457	6853357887915827	CMakeFiles/30_LinkedList.dir/main.cpp.obj	fae75bc49cb0e70d
+1458	1759	6853357891025858	30_LinkedList.exe	85935a56ec7e4ecc
